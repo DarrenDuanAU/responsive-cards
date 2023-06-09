@@ -1,0 +1,21 @@
+
+h1 {
+  color: #4181ee;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  background: lightblue;
+  display: flex;
+  flex-direction: row;
+  height: 700px;
+}
+
+.card {
+  background-color: lightseagreen;
+  height: 300px;
+  width: 250px;
+  border-radius: 10px;
+  margin: 30px;
+}
